@@ -16,8 +16,8 @@ const data = [
   },
   {
     id: 3,
-    image: './images/homepage/microsoft_365.webp',
-    title: 'Microsoft 365',
+    image: './images/homepage/Techsoft_100.webp',
+    title: 'Techsoft 100',
     desc:
       'Premium Office apps, extra cloud storage, advanced security, and more - all in one convenient subscription.',
     link: 'For up to 6 people',

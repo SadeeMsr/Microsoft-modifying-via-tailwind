@@ -10,9 +10,9 @@ import MSResponse from './components/MSResponse'
 import ThisHoliday from './components/ThisHoliday'
 import Social from './components/Social'
 import Footer from './components/Footer'
-import Showcase from './pages/microsoft_page/Showcase'
-import LearnMore from './pages/microsoft_page/LearnMore'
-import Video from './pages/microsoft_page/Video'
+import Showcase from './pages/techsoft_page/Showcase'
+import LearnMore from './pages/techsoft_page/LearnMore'
+import Video from './pages/techsoft_page/Video'
 import ShowcaseOffice from './pages/office_page/ShowcaseOffice'
 import OfficeGrid from './pages/office_page/OfficeGrid'
 import MsGrid from './pages/office_page/MsGrid'
@@ -32,7 +32,7 @@ function App() {
         <MSResponse />
         <ThisHoliday />
       </Route>
-      <Route path="/microsoft-365">
+      <Route path="/techsoft-100">
         <Showcase />
         <Video />
         <LearnMore />

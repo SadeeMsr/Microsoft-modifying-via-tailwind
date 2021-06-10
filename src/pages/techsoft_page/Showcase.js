@@ -7,7 +7,7 @@ const Showcase = () => {
         <div className="overlay flex flex-col items-center justify-center">
           <div>
             <h1 className="text-center font-bold text-4xl mb-3 lg:text-6xl">
-              Microsoft 365
+              Techsoft 100
             </h1>
             <p className="mb-5">
               Your productivity cloud across work and life.

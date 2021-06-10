@@ -13,7 +13,7 @@ const ThisHoliday = () => {
           This holiday, find your joy
         </h2>
         <p className="mb-2 text">
-          Follow the story of Rufus, a pup whose dream takes him into Microsoft
+          Follow the story of Rufus, a pup whose dream takes him into Techsoft
           worlds like Minecraft, Flight Simulator, Teams and Halo
         </p>
         <button className="mr-4 bg-white text-black py-2 px-5 hover:underline hover:bg-opacity-80">

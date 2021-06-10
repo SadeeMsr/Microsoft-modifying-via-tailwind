@@ -37,13 +37,13 @@ const Footer = () => {
         <div>
           <ul className="flex flex-wrap text-sm mt-4 text-gray-600">
             <li className="mr-4">Sitemap</li>
-            <li className="mr-4">Contact Microsoft</li>
+            <li className="mr-4">Contact Techsoft</li>
             <li className="mr-4">Privacy</li>
             <li className="mr-4">Terms of Use</li>
             <li className="mr-4">Trademarks</li>
             <li className="mr-4">Safety &amp; eco</li>
             <li className="mr-4">About our ads</li>
-            <li>&copy; Microsoft 2020</li>
+            <li>&copy; Techsoft 2020</li>
           </ul>
         </div>
       </div>

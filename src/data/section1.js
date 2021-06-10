@@ -12,7 +12,7 @@ const data = [
   {
     id: 3,
     image: './images/homepage/choose_your_ms_365.png',
-    text: 'Choose your Microsoft 365',
+    text: 'Choose your Techsoft 100',
   },
   {
     id: 4,

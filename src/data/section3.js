@@ -18,14 +18,14 @@ const data = [
   {
     id: 3,
     image: './images/homepage/ms_teams.webp',
-    title: 'Microsoft Teams',
+    title: 'Techsoft Teams',
     desc: 'Chat, meet, call and collaborate.',
     link: 'Learn more',
   },
   {
     id: 4,
     image: './images/homepage/ms_security_response_center.webp',
-    title: 'Microsoft Security Response Center',
+    title: 'Techsoft Security Response Center',
     desc:
       'Get information and recommendations from cybersecurity experts regarding the recent nation-state cyber attacks.',
     link: 'Learn more',

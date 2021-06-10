@@ -5,7 +5,7 @@ const Social = () => {
   return (
     <div className="flex items-center py-5 px-8 xl:pl-20">
       <div className="mr-5">
-        <h4>Follow Microsoft</h4>
+        <h4>Follow Techsoft</h4>
       </div>
       <div className="flex">
         <FaFacebookF className="mr-2 text-2xl text-blue-900" />
